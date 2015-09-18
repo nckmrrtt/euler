@@ -1,8 +1,6 @@
 /*
- *this is a brute force solution to adding up the digits of the powers of two...
- *there's gotta be a better way though.
- *
- *edit: included a way to add the 
+ * adds the digits in a power of 2.
+ * 
  */
 
 #include <stdio.h>
